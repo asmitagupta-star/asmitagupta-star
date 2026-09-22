@@ -1,51 +1,302 @@
-<h1>🔭 I'm currently working on  AI-powered backend services using FastAPI, OpenAI API, and RAG pipelines at Quess Corp — plus an NLP document analysis system and an AI PR Review Agent that auto-classifies code quality from GitHub webhooks. 👯 I'm looking to collaborate on  Open-source Python/FastAPI projects, LLM and RAG-based applications, and scalable microservices for AI-integrated backend systems. 🤝 I'm looking for help with  Advanced LLM fine-tuning, vector database optimization for large-scale RAG, and MLOps best practices for deploying AI systems in production. 🌱 I'm currently learning  Deeper Generative AI techniques — agentic workflows with LangChain, multi-step reasoning pipelines, and advanced prompt engineering for domain-specific LLMs. 💬 Ask me about  Python full-stack development, Django & FastAPI, microservices architecture, building national-scale fintech platforms (I shipped NIDHI 2.0 for 170,000+ users), and integrating AI/ML into backend systems. ⚡ Fun fact  I built a real-time payment soundbox (Bajaj Pay) that announces transaction amounts in 9 Indian languages within 100ms — and I won First Prize in an inter-college Python & DSA coding competition in Varanasi! 🏆</h1>
-<p>Python Fullstack Developer </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Asmita-Gupta&show_icons=true&locale=en" alt="Asmita-Gupta" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmita-Gupta&" alt="Asmita-Gupta" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmita-Gupta&show_icons=true&locale=en&layout=compact" alt="Asmita-Gupta" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asmita-Gupta" alt="Asmita-Gupta" /></a></p>
+# Hi, I'm Asmita Gupta 👋
+
+### Python Full-Stack Developer | Backend Engineer | AI Engineer
+
+I build **scalable backend systems, AI-powered applications, and microservice architectures** using Python and modern cloud technologies.
+
+My primary focus is on **Python, Django, FastAPI, REST APIs, distributed systems, AI/LLM applications, RAG pipelines, and scalable backend engineering**.
+
+---
+
+## 🚀 About Me
+
+* 🔭 Currently working on **AI-powered backend services using FastAPI, OpenAI APIs, and RAG pipelines**
+* 🤖 Building an **AI PR Review Agent** that analyzes and classifies code quality using GitHub webhooks
+* 📄 Working on **NLP-based document analysis systems**
+* 🏗️ Interested in **scalable microservices and AI-integrated backend systems**
+* 🌱 Currently exploring **Generative AI, agentic workflows, LangChain, multi-step reasoning, and advanced prompt engineering**
+* 🤝 Open to collaborating on **Python, FastAPI, AI/LLM, RAG, and distributed backend projects**
+* 💬 Ask me about **Python, Django, FastAPI, REST APIs, microservices, databases, and AI-powered backend systems**
+
+---
+
+## 🧑‍💻 Core Expertise
+
+### Backend Development
+
+* Python
+* Django
+* Django REST Framework
+* FastAPI
+* Flask
+* REST APIs
+* Microservices Architecture
+* API Design
+* Background Processing
+* Event-Driven Systems
+
+### AI & Generative AI
+
+* OpenAI APIs
+* LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* NLP
+* AI Agents
+* Agentic Workflows
+* Prompt Engineering
+* AI-powered Code Review
+* Document Intelligence
+
+### Databases & Data
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+* Oracle
+* Microsoft SQL Server
+* SQLite
+* Pandas
+
+### Distributed Systems & Messaging
+
+* Apache Kafka
+* RabbitMQ
+* Redis
+* Nginx
+* GraphQL
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* Kubernetes
+* Jenkins
+* Linux
+* CI/CD
+
+### Frontend & Mobile
+
+* React
+* Next.js
+* Flutter
+* Dart
+* Android
+
+### Development Tools
+
+* Git
+* GitHub
+* Selenium
+
+---
+
+## 🏗️ Featured Engineering Work
+
+### 🤖 AI-Powered Backend Services
+
+Developing backend services using **FastAPI, LLM APIs, and RAG pipelines** for AI-integrated applications.
+
+Focus areas:
+
+* Scalable API architecture
+* Retrieval pipelines
+* LLM integration
+* Document processing
+* AI-powered automation
+* Microservice-based backend systems
+
+---
+
+### 🔍 AI PR Review Agent
+
+An AI-powered system designed to analyze pull requests and automatically classify code quality using **GitHub webhooks and AI-based analysis**.
+
+**Key areas:**
+
+* GitHub webhook integration
+* Automated PR analysis
+* Code-quality classification
+* AI-assisted developer workflows
+* Backend automation
+
+---
+
+### 🏦 NIDHI 2.0
+
+Worked on **NIDHI 2.0**, a platform that supported **170,000+ users**.
+
+This project gave me experience working with backend systems designed for large user volumes and production-scale applications.
+
+---
+
+### 🔊 Bajaj Pay Soundbox
+
+Built a **real-time payment soundbox** capable of announcing transaction amounts in **9 Indian languages within 100ms**.
+
+**Focus areas:**
+
+* Real-time processing
+* Python backend
+* MQTT communication
+* Payment event handling
+* Low-latency systems
+* Multilingual audio notifications
+
+---
+
+## 🧠 Currently Learning
+
+I'm continuously expanding my knowledge in:
+
+```text
+Generative AI
+     ↓
+LLM Applications
+     ↓
+RAG Systems
+     ↓
+AI Agents
+     ↓
+Agentic Workflows
+     ↓
+Production AI Systems
+```
+
+Areas I'm particularly interested in:
+
+* Advanced LLM techniques
+* Agentic architectures
+* Multi-step reasoning pipelines
+* Vector database optimization
+* Large-scale RAG
+* MLOps
+* Production deployment of AI systems
+
+---
+
+## 📈 Engineering Interests
+
+I'm particularly interested in building systems around:
+
+```text
+┌──────────────────────────────────────┐
+│          Scalable Backend            │
+├──────────────────────────────────────┤
+│ Python • FastAPI • Django            │
+├──────────────────────────────────────┤
+│ Microservices • APIs • Event Driven  │
+├──────────────────────────────────────┤
+│ Kafka • RabbitMQ • Redis             │
+├──────────────────────────────────────┤
+│ PostgreSQL • MySQL • MongoDB         │
+├──────────────────────────────────────┤
+│ AWS • Docker • Kubernetes            │
+├──────────────────────────────────────┤
+│ AI • LLM • RAG • Agents              │
+└──────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45" alt="RabbitMQ"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</p>
+
+---
+
+## 🏆 Achievement
+
+🥇 **First Prize — Inter-College Python & DSA Coding Competition, Varanasi**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asmita-Gupta&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmita-Gupta&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmita-Gupta&layout=compact&hide_border=true&langs_count=8" height="170"/>
+</p>
+
+---
+
+## 💡 What I Like Building
+
+```text
+AI Applications
+      │
+      ├── LLM-powered systems
+      ├── RAG pipelines
+      ├── AI agents
+      └── Document intelligence
+      │
+      ▼
+Backend Systems
+      │
+      ├── FastAPI
+      ├── Django
+      ├── REST APIs
+      └── Microservices
+      │
+      ▼
+Distributed Infrastructure
+      │
+      ├── Kafka
+      ├── RabbitMQ
+      ├── Redis
+      ├── Docker
+      └── Kubernetes
+      │
+      ▼
+Cloud & Production
+      │
+      ├── AWS
+      ├── CI/CD
+      └── Scalable deployments
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+* 🐍 Python backend projects
+* ⚡ FastAPI & Django applications
+* 🤖 LLM / Generative AI projects
+* 🔎 RAG-based systems
+* 🧠 AI agents
+* 🏗️ Microservices architectures
+* ☁️ Cloud-native applications
+* 📊 Data-intensive backend systems
+
+---
+
+<p align="center">
+  <b>Building scalable systems. Exploring AI. Solving real-world problems.</b>
+</p>
+
+<p align="center">
+  ⭐ If you find something useful in my repositories, feel free to explore and connect.
+</p>
